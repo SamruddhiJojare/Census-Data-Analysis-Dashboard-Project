@@ -1,7 +1,7 @@
 # 📊 India Census 2011 – Tableau Dashboard Series
 
 Welcome to the visualization series based on India’s **Census 2011**!  
-This Tableau project transforms raw demographic and educational data into **six interactive dashboards** — enabling users to seamlessly explore patterns, disparities, and insights across gender, geography, and literacy.
+This Tableau project transforms raw population demographic and educational data into **six interactive dashboards** — enabling users to seamlessly explore patterns, disparities, and insights across gender, geography, and literacy.
 
 ---
 
