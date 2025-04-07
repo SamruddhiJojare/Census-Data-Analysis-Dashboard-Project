@@ -15,6 +15,8 @@ This project is designed with **interactivity and smooth navigation** in mind. H
   - Switch between different dashboards
   - Return to the overview dashboard
   - Explore related insights seamlessly
+    
+- 🔘 **Navigation Tip**: The symbol used for navigation buttons is consistent with the icon displayed in the top-left corner of each dashboard, ensuring smooth transitions between views. Additionally, interactive tooltips are embedded throughout to guide users with contextual information as they explore the visuals.
 
 ### 🎛️ Filters & Controls
 
