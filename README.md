@@ -64,6 +64,7 @@ Each dashboard serves a specific analytical purpose:
 
 ### 4️⃣ 🧒👧 **Child & Gender Demographics Dashboard**
 - Bar-in-Bar chart (Left): State-wise child (0–6) population by gender
+- Pink → Female; Blue → Male.
 - Hexbin Map (Right): City-wise sex ratio color-coded
 - Red → low ratio; Blue → balanced.
 
