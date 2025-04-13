@@ -84,7 +84,7 @@ Each dashboard serves a specific analytical purpose:
 I'm always open to feedback, ideas, or collaboration opportunities!  
 Whether you're a recruiter, analyst, or fellow data enthusiast — feel free to connect. 😊
 
-📬 **Connect with me on LinkedIn**: [Samruddhi Jojare](https://www.linkedin.com/in/samruddhijojare)
+📬 **LinkedIn**: [Samruddhi Jojare](https://www.linkedin.com/in/samruddhijojare)
 
 ---
 
