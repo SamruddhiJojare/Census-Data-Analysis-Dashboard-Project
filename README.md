@@ -96,7 +96,7 @@ Whether you're a recruiter, analyst, or fellow data enthusiast — feel free to 
 
 ---
 
-Tableau Public : [INDIA : Census 2011](https://public.tableau.com/app/profile/samruddhi.jojare/viz/Cities_17434485164450/OverviewDashboard)
+**Tableau Public** : [INDIA : Census 2011](https://public.tableau.com/app/profile/samruddhi.jojare/viz/Cities_17434485164450/OverviewDashboard)
 
 🔎 For the best viewing experience, it is recommended to switch to full-screen mode while exploring the dashboards on Tableau Public.
 
